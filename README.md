@@ -1,3 +1,10 @@
+Note : You have to install Node modules to run this project!!
+To install -> Download this github project file, Go on Project Terminal and run : "npm install"
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
